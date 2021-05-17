@@ -1,0 +1,49 @@
+﻿body {
+    background-image: url("Penguins.jpeg"); 
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.signin{
+    text-align:center;
+    font-size:30px;
+}
+.container {
+    position: absolute;
+    border-radius:10px;
+    box-sizing:border-box;
+    box-shadow: 0px 0px 5px;
+    padding: 0px 100px 100px 100px;
+    margin: 150px 0px 100px 530px;
+}
+p{
+    font-size:20px;
+    color:darkviolet;
+}
+label{
+    font-size:25px;
+    font-style:inherit;
+    color:black;
+}
+
+input[type=text] {
+    border-radius: 10px;
+    background-color: aqua;
+    border-color: aqua;
+    height: 30px;
+    width: 300px;
+}
+input[type=password] {
+    border-radius: 10px;
+    background-color: aqua;
+    border-color: aqua;
+    height: 30px;
+    width: 300px;
+}
+.btn {
+    background-color: aqua;
+    border-color: aqua;
+    width: 300px;
+    height: 30px;
+    border-radius: 10px;
+    font-size: 20px;
+}
